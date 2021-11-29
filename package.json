@@ -1,9 +1,9 @@
 {
-  "name": "explore-indonesia",
+  "name": "boilerplate-static-encore",
   "version": "1.0.0",
-  "description": "Demo project",
+  "description": "Boilerplate for a static website using Symfony's Webpack Encore",
   "main": "index.js",
-  "repository": "http://www.github.com/karobwe/explore-indonesia",
+  "repository": "http://www.github.com/karobwe/boilerplate-static-encore",
   "author": "Karobwe",
   "license": "MIT",
   "devDependencies": {
